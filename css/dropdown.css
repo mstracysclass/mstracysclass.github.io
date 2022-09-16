@@ -5,14 +5,14 @@
   font-size: 20px;
   border: none;
   float: left;
-  width: 23vw;
+  width: 20vw;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
   float: left;
-  width: 23vw;
+  width: 20vw;
 }
 
 .dropdown-content {
@@ -49,4 +49,8 @@
 
 .dropborder {
   border-right: 4px solid #2e8d31;
+}
+
+.dropdowns {
+  background-color: #04AA6D;
 }
