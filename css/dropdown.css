@@ -44,3 +44,7 @@
 .dropbrs {
   background-color: #3e8e41;
 }
+
+.dropborder {
+  border-right: 10px solid #256827;
+}
