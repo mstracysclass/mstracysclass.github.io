@@ -59,5 +59,7 @@
 .email {
   width: 100%;
   color: white;
-  height: 65px;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
 }
