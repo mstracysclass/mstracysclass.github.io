@@ -54,13 +54,11 @@
 .dropdowns {
   background-color: #04AA6D;
   width: 100vw;
-  height: 65px;
 }
 
 .email {
-  width: auto;
-  color: white;
-  padding: auto;
+  width: 100%;
+  padding: 20px;
   font-size: 20px;
   text-align: center;
   word-wrap: break-word;
